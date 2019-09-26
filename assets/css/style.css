@@ -136,21 +136,7 @@ table{
 	text-align: center;
 	margin-top: 10%
 }
-.reStart{
-	background: rgba(0,0,0,0.95);
-	position: fixed;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	display: none;
-	font-weight:bold
-}
-.reStart h1{
-	color: #cc0;
-	text-align: center;
-	margin-top: 20%
-}
+
 #startGame{
 	margin-left: 47%
 }
